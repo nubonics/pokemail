@@ -1,7 +1,7 @@
 # Pokemail API
 
 ### Example Usage:
-    import pokemail
+    from pokemail.pokemail import Pokemail
 
 
     expected_sender = 'nubonix@example.com'
